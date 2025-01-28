@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: dyn_illust_char_2014_nian_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 8a5cca851207691499f0fb52c2c1a7d5, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 69d4eff622af6114bb6a4ccd1d5668ed, type: 2}
+  - {fileID: 2100000, guid: 450332045e3aa7c478cea80be06fad4d, type: 2}

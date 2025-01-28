@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3226165084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2cfdd833f3d09fc5fcf11caff8b5baa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9eb05fb361b702eaeed6cef4d20c19b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling_ncg#1/dyn_illust_char_2023_ling_ncg#1.png
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling_ncg#1/dyn_illust_char_2023_ling_ncg#1_Material.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue_nian#10/dyn_illust_char_2024_chyue_nian#10_Material.mat
+- Assets/Arknights/Sui family/Nian/char_2014_nian_nian#4/dyn_illust_char_2014_nian_nian#4_Material-Additive.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue/dyn_illust_char_2024_chyue.png
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling2.png
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#7_dyn_illust_char_2015_dusk_nian#72.mat
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk/dyn_illust_char_2015_dusk.png
+- Assets/Arknights/Sui family/Nian/char_2014_nian_nian#4/dyn_illust_char_2014_nian_nian#4.atlas.txt
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling_dyn_illust_char_2023_ling2.mat
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian_dyn_illust_char_2014_nian2.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue_nian#10/dyn_illust_char_2024_chyue_nian#10.atlas.txt
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling_ncg#1/dyn_illust_char_2023_ling_ncg#1.atlas.txt
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling.png
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian.png
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian.atlas.txt
+- Assets/Arknights/Sui family/Shu/dyn_illust_char_2025_shu/dyn_illust_char_2025_shu.skel.bytes
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling_ncg#1/dyn_illust_char_2023_ling_ncg#1_Material-Additive.mat
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling_dyn_illust_char_2023_ling.mat
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian_dyn_illust_char_2014_nian.mat
+- Assets/Arknights/Sui family/Nian/char_2014_nian_nian#4/dyn_illust_char_2014_nian_nian#4_Material.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue/dyn_illust_char_2024_chyue.skel.bytes
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk/dyn_illust_char_2015_dusk.skel.bytes
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian2.png
+- Assets/Arknights/Sui family/Shu/dyn_illust_char_2025_shu/dyn_illust_char_2025_shu_Material.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue_nian#10/dyn_illust_char_2024_chyue_nian#10.skel.bytes
+- Assets/Arknights/Sui family/Nian/char_2014_nian_nian#4/dyn_illust_char_2014_nian_nian#4.skel.bytes
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling.skel.bytes
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling/dyn_illust_char_2023_ling.atlas.txt
+- Assets/Arknights/Sui family/Shu/dyn_illust_char_2025_shu/dyn_illust_char_2025_shu.png
+- Assets/Arknights/Sui family/Nian/char_2014_nian_nian#4/dyn_illust_char_2014_nian_nian#4.png
+- Assets/Arknights/Sui family/Shu/dyn_illust_char_2025_shu/dyn_illust_char_2025_shu.atlas.txt
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#7.atlas.txt
+- Assets/Arknights/Sui family/Ling/dyn_illust_char_2023_ling_ncg#1/dyn_illust_char_2023_ling_ncg#1.skel.bytes
+- Assets/Arknights/Sui family/Nian/char_2014_nian_2/dyn_illust_char_2014_nian2.skel.bytes
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue/dyn_illust_char_2024_chyue.atlas.txt
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#7.png
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#7.skel.bytes
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue/dyn_illust_char_2024_chyue_Material.mat
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue_nian#10/dyn_illust_char_2024_chyue_nian#10.png
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#7_dyn_illust_char_2015_dusk_nian#7.mat
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk/dyn_illust_char_2015_dusk_Material.mat
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk/dyn_illust_char_2015_dusk_Material-Additive.mat
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk/dyn_illust_char_2015_dusk.atlas.txt
+- Assets/Arknights/Sui family/Dusk/dyn_illust_char_2015_dusk_nian#7/dyn_illust_char_2015_dusk_nian#72.png
+- Assets/Arknights/Sui family/Chyue/dyn_illust_char_2024_chyue/dyn_illust_char_2024_chyue_Material-Additive.mat
+Dependencies: []
