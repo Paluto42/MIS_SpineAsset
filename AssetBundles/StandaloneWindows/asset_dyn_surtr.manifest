@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3725609452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e977ef54ebaba4cf59df02979a882b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9eb05fb361b702eaeed6cef4d20c19b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arknights/Surtr/dyn_illust_char_350_surtr_summer#9/dyn_illust_char_350_surtr_summer#9.png
+- Assets/Arknights/Surtr/dyn_illust_char_350_surtr_summer#9/dyn_illust_char_350_surtr_summer#9.atlas.txt
+- Assets/Arknights/Surtr/dyn_illust_char_350_surtr_summer#9/dyn_illust_char_350_surtr_summer#9_Material.mat
+- Assets/Arknights/Surtr/dyn_illust_char_350_surtr_summer#9/dyn_illust_char_350_surtr_summer#9.skel.bytes
+Dependencies: []

@@ -1,7 +1,14 @@
 ManifestFileVersion: 0
-CRC: 298035232
+CRC: 692352452
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: asset_dyn_suifamily
       Dependencies: {}
+    Info_1:
+      Name: asset_dyn_surtr
+      Dependencies: {}
+    Info_2:
+      Name: asset_dyn_prefab
+      Dependencies:
+        Dependency_0: asset_dyn_suifamily
